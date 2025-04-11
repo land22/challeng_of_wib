@@ -1,5 +1,5 @@
 {
-	"token": "<evalai_user_auth_token>",
-	"team_pk": "<host_team_pk>",
-	"evalai_host_url": "<evalai_host_url>"
-}
+	"token": "$EVALAI_USER_AUTH_TOKEN",
+	"team_pk": "$HOST_TEAM_PK",
+	"evalai_host_url": "$EVALAI_HOST_URL"
+  }

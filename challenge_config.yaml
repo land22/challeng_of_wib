@@ -12,6 +12,7 @@ evaluation_script: evaluation_script.zip
 remote_evaluation: False
 start_date: 2023-01-01 00:00:00
 end_date: 2099-05-31 23:59:59
+evalai_host_url: "https://eval.ai" 
 published: True
 tags: 
   - random-number-generation
